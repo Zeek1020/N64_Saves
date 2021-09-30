@@ -1,1 +1,3 @@
 Hello, world!
+I've added this line on the 'new_branch' branch
+Does this work?
